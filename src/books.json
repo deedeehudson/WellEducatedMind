@@ -1,0 +1,1694 @@
+[
+    {
+      "BookId": 1,
+      "Author": "Miguel de Cervantes",
+      "Title": "Don Quixote",
+      "Date": 1605,
+      "Category": "1 - Novel",
+      "Own": "Yes",
+      "Read": "Yes"
+    },
+    {
+      "BookId": 2,
+      "Author": "John Bunyan",
+      "Title": "Pilgrim’s Progress",
+      "Date": 1679,
+      "Category": "1 - Novel",
+      "Own": "Yes",
+      "Read": "Yes"
+    },
+    {
+      "BookId": 3,
+      "Author": "Jonathan Swift",
+      "Title": "Gulliver’s Travels",
+      "Date": 1726,
+      "Category": "1 - Novel",
+      "Own": "Yes",
+      "Read": "Yes"
+    },
+    {
+      "BookId": 4,
+      "Author": "Jane Austen",
+      "Title": "Pride & Prejudice",
+      "Date": 1815,
+      "Category": "1 - Novel",
+      "Own": "Yes",
+      "Read": "Yes"
+    },
+    {
+      "BookId": 5,
+      "Author": "Charles Dickens",
+      "Title": "Oliver Twist",
+      "Date": 1838,
+      "Category": "1 - Novel",
+      "Own": "Yes",
+      "Read": "Yes"
+    },
+    {
+      "BookId": 6,
+      "Author": "Charlotte Brontë",
+      "Title": "Jane Eyre",
+      "Date": 1847,
+      "Category": "1 - Novel",
+      "Own": "Yes",
+      "Read": "Yes"
+    },
+    {
+      "BookId": 7,
+      "Author": "Nathaniel Hawthorne",
+      "Title": "The Scarlet Letter",
+      "Date": 1850,
+      "Category": "1 - Novel",
+      "Own": "Yes",
+      "Read": "Yes"
+    },
+    {
+      "BookId": 8,
+      "Author": "Herman Melville",
+      "Title": "Moby-Dick",
+      "Date": 1851,
+      "Category": "1 - Novel",
+      "Own": "Yes",
+      "Read": "Yes"
+    },
+    {
+      "BookId": 9,
+      "Author": "Harriet Beecher Stowe",
+      "Title": "Uncle Tom’s Cabin",
+      "Date": 1851,
+      "Category": "1 - Novel",
+      "Own": "Yes",
+      "Read": "Yes"
+    },
+    {
+      "BookId": 10,
+      "Author": "Gustave Flaubert",
+      "Title": "Madame Bovary",
+      "Date": 1857,
+      "Category": "1 - Novel",
+      "Own": "Yes",
+      "Read": "Yes"
+    },
+    {
+      "BookId": 11,
+      "Author": "Fyodor Dostoyevsky",
+      "Title": "Crime and Punishment",
+      "Date": 1866,
+      "Category": "1 - Novel",
+      "Own": "Yes",
+      "Read": "Yes"
+    },
+    {
+      "BookId": 12,
+      "Author": "Leo Tolstoy",
+      "Title": "Anna Karenina",
+      "Date": 1877,
+      "Category": "1 - Novel",
+      "Own": "No",
+      "Read": "Yes"
+    },
+    {
+      "BookId": 13,
+      "Author": "Thomas Hardy",
+      "Title": "The Return of the Native",
+      "Date": 1878,
+      "Category": "1 - Novel",
+      "Own": "Yes",
+      "Read": "Yes"
+    },
+    {
+      "BookId": 14,
+      "Author": "Henry James",
+      "Title": "The Portrait of a Lady",
+      "Date": 1881,
+      "Category": "1 - Novel",
+      "Own": "No",
+      "Read": "Yes"
+    },
+    {
+      "BookId": 15,
+      "Author": "Mark Twain",
+      "Title": "Adventures of Huckleberry Finn",
+      "Date": 1884,
+      "Category": "1 - Novel",
+      "Own": "No",
+      "Read": "Yes"
+    },
+    {
+      "BookId": 16,
+      "Author": "Stephen Crane",
+      "Title": "The Red Badge of Courage",
+      "Date": 1895,
+      "Category": "1 - Novel",
+      "Own": "Yes",
+      "Read": "No"
+    },
+    {
+      "BookId": 17,
+      "Author": "Joseph Conrad",
+      "Title": "Heart of Darkness",
+      "Date": 1902,
+      "Category": "1 - Novel",
+      "Own": "Yes",
+      "Read": "No"
+    },
+    {
+      "BookId": 18,
+      "Author": "Edith Wharton",
+      "Title": "The House of Mirth",
+      "Date": 1905,
+      "Category": "1 - Novel",
+      "Own": "Yes",
+      "Read": "Yes"
+    },
+    {
+      "BookId": 19,
+      "Author": "F. Scott Fitzgerald",
+      "Title": "The Great Gatsby",
+      "Date": 1925,
+      "Category": "1 - Novel",
+      "Own": "Yes",
+      "Read": "Yes"
+    },
+    {
+      "BookId": 20,
+      "Author": "Virginia Woolf",
+      "Title": "Mrs. Dalloway",
+      "Date": 1925,
+      "Category": "1 - Novel",
+      "Own": "Yes",
+      "Read": "Yes"
+    },
+    {
+      "BookId": 21,
+      "Author": "Franz Kafka",
+      "Title": "The Trial",
+      "Date": 1925,
+      "Category": "1 - Novel",
+      "Own": "No",
+      "Read": "Yes"
+    },
+    {
+      "BookId": 22,
+      "Author": "Richard Wright",
+      "Title": "Native Son",
+      "Date": 1940,
+      "Category": "1 - Novel",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 23,
+      "Author": "Albert Camus",
+      "Title": "The Stranger",
+      "Date": 1942,
+      "Category": "1 - Novel",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 24,
+      "Author": "George Orwell",
+      "Title": 1984,
+      "Date": 1949,
+      "Category": "1 - Novel",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 25,
+      "Author": "Ralph Ellison",
+      "Title": "Invisible Man",
+      "Date": 1952,
+      "Category": "1 - Novel",
+      "Own": "Yes",
+      "Read": "No"
+    },
+    {
+      "BookId": 26,
+      "Author": "Saul Bellow",
+      "Title": "Seize the Day",
+      "Date": 1956,
+      "Category": "1 - Novel",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 27,
+      "Author": "Gabriel García Márquez",
+      "Title": "One Hundred Years of Solitude",
+      "Date": 1967,
+      "Category": "1 - Novel",
+      "Own": "Yes",
+      "Read": "Yes"
+    },
+    {
+      "BookId": 28,
+      "Author": "Italo Calvino",
+      "Title": "If on a winter’s night a traveler",
+      "Date": 1972,
+      "Category": "1 - Novel",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 29,
+      "Author": "Toni Morrison",
+      "Title": "Song of Solomon",
+      "Date": 1977,
+      "Category": "1 - Novel",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 30,
+      "Author": "Don DeLillo",
+      "Title": "White Noise",
+      "Date": 1985,
+      "Category": "1 - Novel",
+      "Own": "Yes",
+      "Read": "Yes"
+    },
+    {
+      "BookId": 31,
+      "Author": "A. S. Byatt",
+      "Title": "Possession",
+      "Date": 1990,
+      "Category": "1 - Novel",
+      "Own": "Yes",
+      "Read": "Yes"
+    },
+    {
+      "BookId": 32,
+      "Author": "Cormac McCarthy",
+      "Title": "The Road",
+      "Date": 2006,
+      "Category": "1 - Novel",
+      "Own": "Yes",
+      "Read": "Yes"
+    },
+    {
+      "BookId": 33,
+      "Author": "St. Augustine",
+      "Title": "The Confessions",
+      "Date": "c. 400 AD",
+      "Category": "2 - Autobiography & Memoir",
+      "Own": "Yes",
+      "Read": "No"
+    },
+    {
+      "BookId": 34,
+      "Author": "Margery Kempe",
+      "Title": "The Book of Margery Kempe",
+      "Date": "c. 1420",
+      "Category": "2 - Autobiography & Memoir",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 35,
+      "Author": "Michel de Montaigne",
+      "Title": "Essays",
+      "Date": 1580,
+      "Category": "2 - Autobiography & Memoir",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 36,
+      "Author": "Teresa of Ávila",
+      "Title": "The Life of Saint Teresa of Ávila by Herself",
+      "Date": 1588,
+      "Category": "2 - Autobiography & Memoir",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 37,
+      "Author": "René Descartes",
+      "Title": "Meditations",
+      "Date": 1641,
+      "Category": "2 - Autobiography & Memoir",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 38,
+      "Author": "John Bunyan",
+      "Title": "Grace Abounding to the Chief of Sinners",
+      "Date": 1666,
+      "Category": "2 - Autobiography & Memoir",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 39,
+      "Author": "Mary Rowlandson",
+      "Title": "The Narrative of the Captivity and Restoration",
+      "Date": 1682,
+      "Category": "2 - Autobiography & Memoir",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 40,
+      "Author": "Jean-Jacques Rousseau",
+      "Title": "Confessions",
+      "Date": 1781,
+      "Category": "2 - Autobiography & Memoir",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 41,
+      "Author": "Benjamin Franklin",
+      "Title": "The Autobiography of Benjamin Franklin",
+      "Date": 1791,
+      "Category": "2 - Autobiography & Memoir",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 42,
+      "Author": "Frederick Douglass",
+      "Title": "Narrative of the Life of Frederick Douglass an American Slave",
+      "Date": 1845,
+      "Category": "2 - Autobiography & Memoir",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 43,
+      "Author": "Henry David Thoreau",
+      "Title": "Walden",
+      "Date": 1854,
+      "Category": "2 - Autobiography & Memoir",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 44,
+      "Author": "Harriet Jacobs",
+      "Title": "Incidents in the Life of a Slave Girl written by herself",
+      "Date": 1861,
+      "Category": "2 - Autobiography & Memoir",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 45,
+      "Author": "Booker T. Washington",
+      "Title": "Up From Slavery",
+      "Date": 1901,
+      "Category": "2 - Autobiography & Memoir",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 46,
+      "Author": "Friederich Nietzsche",
+      "Title": "Ecce Homo: How One Becomes What One Is",
+      "Date": 1908,
+      "Category": "2 - Autobiography & Memoir",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 47,
+      "Author": "Adolf Hitler",
+      "Title": "Mein Kampf",
+      "Date": 1925,
+      "Category": "2 - Autobiography & Memoir",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 48,
+      "Author": "Mohandas Gandi",
+      "Title": "An Autobiography: The Story of My Experiments with the Truth",
+      "Date": 1929,
+      "Category": "2 - Autobiography & Memoir",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 49,
+      "Author": "Gertrude Stein",
+      "Title": "The Autobiography of Alice B. Toklas",
+      "Date": 1933,
+      "Category": "2 - Autobiography & Memoir",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 50,
+      "Author": "Thomas Merton",
+      "Title": "The Seven Storey Mountain",
+      "Date": 1948,
+      "Category": "2 - Autobiography & Memoir",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 51,
+      "Author": "C. S. Lewis",
+      "Title": "Surprised by Joy: The Shape of My Early Life",
+      "Date": 1955,
+      "Category": "2 - Autobiography & Memoir",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 52,
+      "Author": "Malcolm X",
+      "Title": "The Autobiography of Malcolm X",
+      "Date": 1965,
+      "Category": "2 - Autobiography & Memoir",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 53,
+      "Author": "Maya Angelou",
+      "Title": "I Know Why the Caged Bird Sings",
+      "Date": 1969,
+      "Category": "2 - Autobiography & Memoir",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 54,
+      "Author": "May Sarton",
+      "Title": "Journal of a Solitude",
+      "Date": 1973,
+      "Category": "2 - Autobiography & Memoir",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 55,
+      "Author": "Aleksandr I. Solzhenitsyn",
+      "Title": "The Gulag Archipelago",
+      "Date": 1973,
+      "Category": "2 - Autobiography & Memoir",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 56,
+      "Author": "Charles C. Colson",
+      "Title": "Born Again",
+      "Date": 1977,
+      "Category": "2 - Autobiography & Memoir",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 57,
+      "Author": "Richard Rodriguez",
+      "Title": "Hunger of Memory: The Education of Richard Rodriguez",
+      "Date": 1982,
+      "Category": "2 - Autobiography & Memoir",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 58,
+      "Author": "Jill Ker Conway",
+      "Title": "The Road from Coorain",
+      "Date": 1989,
+      "Category": "2 - Autobiography & Memoir",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 59,
+      "Author": "Elie Wiesel",
+      "Title": "All Rivers Run to the Sea: A Memoir",
+      "Date": 1995,
+      "Category": "2 - Autobiography & Memoir",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 60,
+      "Author": "Herodotus",
+      "Title": "The Histories",
+      "Date": "441 BC",
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 61,
+      "Author": "Thucydides",
+      "Title": "The Peloponnesian War",
+      "Date": "c. 400 BC",
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 62,
+      "Author": "Plato",
+      "Title": "The Republic",
+      "Date": "c. 375 BC",
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 63,
+      "Author": "Plutarch",
+      "Title": "Lives",
+      "Date": "AD 100-125",
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 64,
+      "Author": "St. Augustine",
+      "Title": "The City of God",
+      "Date": 425,
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 65,
+      "Author": "Bede",
+      "Title": "The Ecclesiastical History of the English People",
+      "Date": 731,
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 66,
+      "Author": "Niccolò Machiavelli",
+      "Title": "The Prince",
+      "Date": 1513,
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 67,
+      "Author": "Sir Thomas More",
+      "Title": "Utopia",
+      "Date": 1516,
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 68,
+      "Author": "John Locke",
+      "Title": "The true End of Civil Government",
+      "Date": 1690,
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 69,
+      "Author": "David Hume",
+      "Title": "The History of England Volume V",
+      "Date": 1754,
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 70,
+      "Author": "Jean-Jacques Rousseau",
+      "Title": "The Social Contract",
+      "Date": 1762,
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 71,
+      "Author": "Thomas Paine",
+      "Title": "Common Sense",
+      "Date": 1776,
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 72,
+      "Author": "Edward Gibbon",
+      "Title": "The History of Decline and Fall of the Roman Empire",
+      "Date": "1776-88",
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 73,
+      "Author": "Mary Wollstonecraft",
+      "Title": "The Vindication of the Rights of Woman",
+      "Date": 1792,
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 74,
+      "Author": "Alexis de Tocqueville",
+      "Title": "Democracy in America",
+      "Date": "1835-40",
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 75,
+      "Author": "Karl Marx and Friedrich Engels",
+      "Title": "The Communist Manifesto",
+      "Date": 1848,
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 76,
+      "Author": "Jacob Burckhardt",
+      "Title": "The Civilization of the Renaissance in Italy",
+      "Date": 1860,
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 77,
+      "Author": "W. E. B. du Bois",
+      "Title": "The Souls of Black Folks",
+      "Date": 1903,
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 78,
+      "Author": "Max Weber",
+      "Title": "The Protestant Ethic and the Spirit of Capitalism",
+      "Date": 1904,
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 79,
+      "Author": "Lytton Strachey",
+      "Title": "Queen Victoria",
+      "Date": 1921,
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 80,
+      "Author": "George Orwell",
+      "Title": "The Road to Wigan Pier",
+      "Date": 1937,
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 81,
+      "Author": "Perry Miller",
+      "Title": "The New England Mind",
+      "Date": 1939,
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 82,
+      "Author": "John Kenneth Galbraith",
+      "Title": "The Great Crash 1929",
+      "Date": 1955,
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 83,
+      "Author": "Cornelius Ryan",
+      "Title": "The Longest Day",
+      "Date": 1959,
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 84,
+      "Author": "Betty Friedan",
+      "Title": "The Feminine Mystique",
+      "Date": 1963,
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 85,
+      "Author": "Eugene D. Genovese",
+      "Title": "Roll Jordon Roll l: The World the Slaves Made",
+      "Date": 1974,
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 86,
+      "Author": "Barbara Tuchman",
+      "Title": "A Distant Mirror: The Calamitous Fourteenth Century",
+      "Date": 1978,
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 87,
+      "Author": "Bob Woodward and Carl Bernstein",
+      "Title": "All The President's Men",
+      "Date": 1987,
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 88,
+      "Author": "James M. McPherson",
+      "Title": "Battle Cry of Freedom: The Civil War Era",
+      "Date": 1988,
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 89,
+      "Author": "Laurel Thatcher Ulrich",
+      "Title": "A Midwife's Tale: The Life of Martha Ballard Based on her Diary 1785-1812",
+      "Date": 1990,
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 90,
+      "Author": "Francis Fukuyama",
+      "Title": "The End of History and The Last Man",
+      "Date": 1992,
+      "Category": "3 - History & Politics",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 91,
+      "Author": "Aeschylus",
+      "Title": "Agamemnon",
+      "Date": "c. 458 BC",
+      "Category": "4 - Drama",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 92,
+      "Author": "Sophocles",
+      "Title": "Oedipus the King",
+      "Date": "c. 450 BC",
+      "Category": "4 - Drama",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 93,
+      "Author": "Euripides",
+      "Title": "Medea",
+      "Date": "c. 431 BC",
+      "Category": "4 - Drama",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 94,
+      "Author": "Aristophanes",
+      "Title": "The Birds",
+      "Date": "c. 400 BC",
+      "Category": "4 - Drama",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 95,
+      "Author": "Aristotle",
+      "Title": "Poetics",
+      "Date": "c. 330 BC",
+      "Category": "4 - Drama",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 96,
+      "Author": "Everyman",
+      "Title": "14th Century",
+      "Date": "?",
+      "Category": "4 - Drama",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 97,
+      "Author": "Christopher Marlowe",
+      "Title": "Doctor Faustus",
+      "Date": 1588,
+      "Category": "4 - Drama",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 98,
+      "Author": "William Shakespeare",
+      "Title": "Richard III",
+      "Date": "1592 93",
+      "Category": "4 - Drama",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 99,
+      "Author": "William Shakespeare",
+      "Title": "A Midsummer Night’s Dream",
+      "Date": 159495,
+      "Category": "4 - Drama",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 100,
+      "Author": "William Shakespeare",
+      "Title": "Hamlet",
+      "Date": 1600,
+      "Category": "4 - Drama",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 101,
+      "Author": "Molière",
+      "Title": "Tartuffe",
+      "Date": 1669,
+      "Category": "4 - Drama",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 102,
+      "Author": "William Congreve",
+      "Title": "The Way of the World",
+      "Date": 1700,
+      "Category": "4 - Drama",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 103,
+      "Author": "Oliver Goldsmith",
+      "Title": "She Stoops to Conquer",
+      "Date": 1773,
+      "Category": "4 - Drama",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 104,
+      "Author": "Richard Brinsley Sheridan",
+      "Title": "The School for Scandal",
+      "Date": 1777,
+      "Category": "4 - Drama",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 105,
+      "Author": "Henrik Ibsen",
+      "Title": "A Doll’s House",
+      "Date": 1879,
+      "Category": "4 - Drama",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 106,
+      "Author": "Oscar Wilde",
+      "Title": "The Importance of Being Earnest",
+      "Date": 1899,
+      "Category": "4 - Drama",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 107,
+      "Author": "Anton Chekhov",
+      "Title": "The Cherry Orchard",
+      "Date": 1904,
+      "Category": "4 - Drama",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 108,
+      "Author": "George Bernard Shaw",
+      "Title": "Saint Joan",
+      "Date": 1924,
+      "Category": "4 - Drama",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 109,
+      "Author": "T.S. Eliot",
+      "Title": "Murder in the Cathedral",
+      "Date": 1935,
+      "Category": "4 - Drama",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 110,
+      "Author": "Thornton Wilder",
+      "Title": "Our Town",
+      "Date": 1938,
+      "Category": "4 - Drama",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 111,
+      "Author": "Eugene O’Neill",
+      "Title": "Long Day’s Journey into Night",
+      "Date": 1940,
+      "Category": "4 - Drama",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 112,
+      "Author": "Jean",
+      "Title": "Paul SartreNo Exit",
+      "Date": 1944,
+      "Category": "4 - Drama",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 113,
+      "Author": "Tennessee Williams",
+      "Title": "A Streetcar Named Desire",
+      "Date": 1947,
+      "Category": "4 - Drama",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 114,
+      "Author": "Arthur Miller",
+      "Title": "Death of a Salesman",
+      "Date": 1949,
+      "Category": "4 - Drama",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 115,
+      "Author": "Samuel Beckett",
+      "Title": "Waiting for Godot",
+      "Date": 1952,
+      "Category": "4 - Drama",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 116,
+      "Author": "Robert Bolt",
+      "Title": "A Man for All Seasons",
+      "Date": 1960,
+      "Category": "4 - Drama",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 117,
+      "Author": "Tom Stoppard",
+      "Title": "Rosencrantz and Guildenstern are Dead",
+      "Date": 1967,
+      "Category": "4 - Drama",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 118,
+      "Author": "Peter Shaffer",
+      "Title": "Equus",
+      "Date": 1974,
+      "Category": "4 - Drama",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 119,
+      "Author": "The Epic of Gilgamesh",
+      "Title": "?",
+      "Date": "c. 2000 BC",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 120,
+      "Author": "Homer",
+      "Title": "The Iliad and The Odyssey",
+      "Date": "c. 800 BC",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 121,
+      "Author": "Greek Lyricists",
+      "Title": "[Greek Lyrics trans. Richard Lattimore]",
+      "Date": "c. 600 BC",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 122,
+      "Author": "The Odes",
+      "Title": "Horace65 68 BC",
+      "Date": "",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 123,
+      "Author": "Beowulf",
+      "Title": "?",
+      "Date": "c. 1000",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 124,
+      "Author": "Inferno",
+      "Title": "Dante Alighieri",
+      "Date": "1265 1321",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 125,
+      "Author": "Sir Gawain and the Green Knight",
+      "Title": "?",
+      "Date": "c. 1350",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 126,
+      "Author": "The Canterbury Tales",
+      "Title": "Geoffrey Chaucer",
+      "Date": "c. 1343 1400",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 127,
+      "Author": "Sonnets",
+      "Title": "William Shakespeare",
+      "Date": "1564 1616",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 128,
+      "Author": "?",
+      "Title": "John Donne",
+      "Date": "1572 1631",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 129,
+      "Author": "King James Bible",
+      "Title": "Psalms",
+      "Date": 1611,
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 130,
+      "Author": "John Milton",
+      "Title": "Paradise Lost",
+      "Date": "1608 1674",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 131,
+      "Author": "William Blake",
+      "Title": "Songs of Innocence and of Experience",
+      "Date": "1757 1827",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 132,
+      "Author": "?",
+      "Title": "Williams Wordsworth",
+      "Date": "1770 1850",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 133,
+      "Author": "?",
+      "Title": "Samuel Taylor Coleridge",
+      "Date": "1772 1834",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 134,
+      "Author": "?",
+      "Title": "John Keats",
+      "Date": "1795 1821",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 135,
+      "Author": "?",
+      "Title": "Henry Wadsworth Longfellow",
+      "Date": "1807 1882",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 136,
+      "Author": "Alfred",
+      "Title": "Lord Tennyson",
+      "Date": "1809 1892",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 137,
+      "Author": "?",
+      "Title": "Walt Whitman",
+      "Date": "1819 1892",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 138,
+      "Author": "?",
+      "Title": "Emily Dickinson",
+      "Date": "1830 1886",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 139,
+      "Author": "?",
+      "Title": "Christina Rossetti",
+      "Date": "1830 1894",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 140,
+      "Author": "?",
+      "Title": "Gerard Manley Hopkins",
+      "Date": "1844 1889",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 141,
+      "Author": "?",
+      "Title": "William Butler Yeats",
+      "Date": "1865 1939",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 142,
+      "Author": "?",
+      "Title": "Paul Laurence Dunbar",
+      "Date": "1872 1906",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 143,
+      "Author": "?",
+      "Title": "Robert Frost",
+      "Date": "1874 1963",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 144,
+      "Author": "?",
+      "Title": "Carl Sandburg",
+      "Date": "1878 1967",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 145,
+      "Author": "?",
+      "Title": "William Carlos Williams",
+      "Date": "1883 1963",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 146,
+      "Author": "?",
+      "Title": "Ezra Pound",
+      "Date": "1885 1972",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 147,
+      "Author": "?",
+      "Title": "T.S. Eliot",
+      "Date": "1888 1965",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 148,
+      "Author": "?",
+      "Title": "Langston Hughes",
+      "Date": "1902 1967",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 149,
+      "Author": "?",
+      "Title": "W.H. Auden",
+      "Date": "1907 1973",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 150,
+      "Author": "?",
+      "Title": "Philip Larkin",
+      "Date": "1922 1985",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 151,
+      "Author": "?",
+      "Title": "Allen Ginsberg",
+      "Date": "1926 1997",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 152,
+      "Author": "?",
+      "Title": "Adrienne Rich",
+      "Date": "1929 2012",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 153,
+      "Author": "?",
+      "Title": "Sylvia Plath",
+      "Date": "1932 1963",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 154,
+      "Author": "?",
+      "Title": "Mark Strand",
+      "Date": "1934 2014",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 155,
+      "Author": "?",
+      "Title": "Mary Oliver",
+      "Date": 19352019,
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 156,
+      "Author": "?",
+      "Title": "Seamus Heaney",
+      "Date": "1939 2013",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 157,
+      "Author": "?",
+      "Title": "Robert Pinsky",
+      "Date": 1940,
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 158,
+      "Author": "?",
+      "Title": "Robert Haas",
+      "Date": 1941,
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 159,
+      "Author": "?",
+      "Title": "Jane Kenyon",
+      "Date": "1947 1995",
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 160,
+      "Author": "?",
+      "Title": "Rita Dove",
+      "Date": 1952,
+      "Category": "5 - Poetry",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 161,
+      "Author": "Hippocrates",
+      "Title": "On Airs, Waters, and Places",
+      "Date": "460-370 BC",
+      "Category": "6 - Science",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 162,
+      "Author": "Aristotle",
+      "Title": "Physics",
+      "Date": "c. 330 BC",
+      "Category": "6 - Science",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 163,
+      "Author": "Lucretius",
+      "Title": "On the Nature of Things",
+      "Date": "c. 60 BC",
+      "Category": "6 - Science",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 164,
+      "Author": "Nicolaus Copernicus",
+      "Title": "Commentariolus",
+      "Date": 1514,
+      "Category": "6 - Science",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 165,
+      "Author": "Francis Bacon",
+      "Title": "Novum Organum",
+      "Date": 1620,
+      "Category": "6 - Science",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 166,
+      "Author": "Galileo Galilei",
+      "Title": "Dialogue Concerning the Two Chief World Systems",
+      "Date": 1632,
+      "Category": "6 - Science",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 167,
+      "Author": "Robert Hooke",
+      "Title": "Micrographia",
+      "Date": 1665,
+      "Category": "6 - Science",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 168,
+      "Author": "Isaac Newton",
+      "Title": "Rules and General Scholium from Philosophiae Naturalis Principia Mathematica",
+      "Date": "1687/1713/1726",
+      "Category": "6 - Science",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 169,
+      "Author": "Georges Cuvier",
+      "Title": "Preliminary Discourse 1812[Essay on the Theory on the Theory of Eart trans. Robert Jameson",
+      "Date": 1818,
+      "Category": "6 - Science",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 170,
+      "Author": "Charles Lyell",
+      "Title": "Principles of Geology",
+      "Date": "1830-1832",
+      "Category": "6 - Science",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 171,
+      "Author": "Charles Darwin",
+      "Title": "On the Origin of Species",
+      "Date": 1859,
+      "Category": "6 - Science",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 172,
+      "Author": "Gregor Mendel",
+      "Title": "Experiments in Plant Hybridization",
+      "Date": 1865,
+      "Category": "6 - Science",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 173,
+      "Author": "Alfred Wegener",
+      "Title": "The Origin of Continents and Oceans",
+      "Date": "1915/1929",
+      "Category": "6 - Science",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 174,
+      "Author": "Albert Einstein",
+      "Title": "The General Theory of Relativity",
+      "Date": 1916,
+      "Category": "6 - Science",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 175,
+      "Author": "Max Planck",
+      "Title": "The Origin and Development of the Quantum Theory",
+      "Date": 1922,
+      "Category": "6 - Science",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 176,
+      "Author": "Julian Huxley",
+      "Title": "Evolution: The Modern Synthesis",
+      "Date": 1942,
+      "Category": "6 - Science",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 177,
+      "Author": "Erwin Schrodinger",
+      "Title": "What is Life?",
+      "Date": 1944,
+      "Category": "6 - Science",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 178,
+      "Author": "Rachel Carson",
+      "Title": "Silent Spring",
+      "Date": 1962,
+      "Category": "6 - Science",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 179,
+      "Author": "Desmond Morris",
+      "Title": "The Naked Ape",
+      "Date": 1967,
+      "Category": "6 - Science",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 180,
+      "Author": "James D. Watson",
+      "Title": "The Double Helix: A Personal Account of the Discovery of DNA",
+      "Date": 1968,
+      "Category": "6 - Science",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 181,
+      "Author": "Richard Dawkins",
+      "Title": "The Selfish Gene",
+      "Date": 1976,
+      "Category": "6 - Science",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 182,
+      "Author": "Steven Weinberg",
+      "Title": "The First Three Minutes: A Modern View of the Origin of the Universe",
+      "Date": "1977[updated edition: 1993]",
+      "Category": "6 - Science",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 183,
+      "Author": "E. O. Wilson",
+      "Title": "On Human Nature",
+      "Date": 1978,
+      "Category": "6 - Science",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 184,
+      "Author": "James Lovelock",
+      "Title": "Gaia",
+      "Date": 1979,
+      "Category": "6 - Science",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 185,
+      "Author": "Stephen Jay Gould",
+      "Title": "The Mismeasure of Man",
+      "Date": 1981,
+      "Category": "6 - Science",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 186,
+      "Author": "James Gleick",
+      "Title": "Chaos: Making a New Science",
+      "Date": 1987,
+      "Category": "6 - Science",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 187,
+      "Author": "Stephen Hawking",
+      "Title": "A Brief History of Time",
+      "Date": 1988,
+      "Category": "6 - Science",
+      "Own": "No",
+      "Read": "No"
+    },
+    {
+      "BookId": 188,
+      "Author": "Walter Alvarez",
+      "Title": "T. Rex and the Crater of Doom",
+      "Date": 1997,
+      "Category": "6 - Science",
+      "Own": "No",
+      "Read": "No"
+    }
+  ]

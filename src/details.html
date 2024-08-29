@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Details</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Book Details</h1>
+    <div id="book-details"></div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const urlParams = new URLSearchParams(window.location.search);
+            const bookId = urlParams.get('bookId');
+
+            fetch('books.json')
+                .then(response => response.json())
+                .then(books => {
+                    const book = books.find(b => b.BookId == bookId);
+                    if (book) {
+                        displayBookDetails(book);
+                    } else {
+                        document.getElementById('book-details').textContent = 'Book not found.';
+                    }
+                });
+        });
+
+        function displayBookDetails(book) {
+            const detailsDiv = document.getElementById('book-details');
+
+            const title = document.createElement('h2');
+            title.textContent = book.Title;
+
+            const author = document.createElement('p');
+            author.textContent = `Author: ${book.Author}`;
+
+            const category = document.createElement('p');
+            category.textContent = `Category: ${book.Category}`;
+
+            const date = document.createElement('p');
+            date.textContent = `Published: ${book.Date}`;
+
+            detailsDiv.appendChild(title);
+            detailsDiv.appendChild(author);
+            detailsDiv.appendChild(category);
+            detailsDiv.appendChild(date);
+        }
+    </script>
+</body>
+</html>
